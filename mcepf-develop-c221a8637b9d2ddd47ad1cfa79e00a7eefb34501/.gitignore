@@ -1,0 +1,29 @@
+#
+# Normal rules
+#
+*.a
+*.mod*
+*.mod.c
+*.o
+*.o.*
+*.s
+*.swp
+#.vscode
+*.json
+src/compat/kcompat_generated_defs.h.*
+src/compat/kcompat_generated_defs.h
+*.ko.cmd
+.tmp_versions
+*.ko
+release
+.Module.*
+.modules.*
+Module.symvers
+modules.order
+.define.mk
+release/
+src/mucse_auxiliary
+#
+# git files that we don't want to ignore even it they are dot-files
+#
+!.gitignore

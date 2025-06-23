@@ -1,0 +1,9 @@
+# Syntax:
+# vendor  vendor_name
+#	device  device_name				<-- single tab
+#		subvendor subdevice  subsystem_name	<-- two tabs
+
+# Wuxi Micro Innovation Integrated Circuit Design Co.,Ltd.
+8848  MUCSE
+	903f  N20 100GbE Ethernet Controller (FPGA)
+
